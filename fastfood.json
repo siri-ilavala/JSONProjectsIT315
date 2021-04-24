@@ -1,54 +1,94 @@
 {
     "fastfood":[
         {
-            "name": "Burger King",
-            "slogan": "Be Your Way",
-            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/bking.jpeg"
+            "ffName": "Burger King",
+            "ffSlogan": "Be Your Way",
+            "ffImage": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/bking.jpeg",
+            "ffDescription": "Burger King is specialized in flame-broiled fast-food hamburgers. Serves variety of food including burgers, sides, and more!",
+            "fflocation": "https://www.google.com/maps/search/burger+king",
+            "ffSite": "https://www.bk.com/",
+            "ffRating": "3"
         },
         {
-            "name": "Chick Fil A",
-            "slogan": "Eat mor' chikin",
-            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/chickfila.jpg"
+            "ffName": "Chick Fil A",
+            "ffSlogan": "Eat mor' chikin",
+            "ffImage": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/chickfila.jpg",
+            "ffDescription": "Chick-fil-A's speciality is chicken sandwiches, and also serves one of a kind Chick-fil-A niggets and waffel fries, along with more varieties of food!",
+            "fflocation": "https://www.google.com/maps/search/chick-fil-a/",
+            "ffSite": "https://www.chick-fil-a.com/",
+            "ffRating": "5"
         },
         {
-            "name": "Jersey Mikes Subs",
-            "slogan": "A Sub Above",
-            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/jerseymikes.jpg"
+            "ffName": "Jersey Mikes Subs",
+            "ffSlogan": "A Sub Above",
+            "ffImage": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/jerseymikes.jpg",
+            "ffDescription": "Jersy Mikes Subs is an American submarine sandwich chain that serves various kinds of subs.",
+            "fflocation": "https://www.google.com/maps/search/jersey+mike's+subs/",
+            "ffSite": "https://www.jerseymikes.com/",
+            "ffRating": "4"
         },
         {
-            "name": "McDonalds",
-            "slogan": "I'm Lovin' It",
-            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/mcdonalds.jpg"
+            "ffName": "McDonalds",
+            "ffSlogan": "I'm Lovin' It",
+            "ffImage": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/mcdonalds.jpg",
+            "ffDescription": "McDonald's is the largest fast food chain in the world known for its hamburgers, and also serves variety of burgers, sides and more!",
+            "fflocation": "https://www.google.com/maps/search/mcdonald's/",
+            "ffSite": "https://www.mcdonalds.com/us/en-us.html",
+            "ffRating": "3"
         },
         {
-            "name": "Panera Bread",
-            "slogan": "Food As It Should Be",
-            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/panerabread.jpg"
+            "ffName": "Panera Bread",
+            "ffSlogan": "Food As It Should Be",
+            "ffImage": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/panerabread.jpg",
+            "ffDescription": "Panera offers a variety of foods including bakery items, pasta, salads, sandwiches, soups, and specialty drinks.",
+            "fflocation": "https://www.google.com/maps/search/panera+bread/",
+            "ffSite": "https://www.panerabread.com/en-us/home.html",
+            "ffRating": "5"
         },
         {
-            "name": "Popeyes",
-            "slogan": "LOUISIANA Fast",
-            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/popeyes.jpg"
+            "ffName": "Popeyes",
+            "ffSlogan": "LOUISIANA Fast",
+            "ffImage": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/popeyes.jpg",
+            "ffDescription": "Popeyes serves chicken dishes in mild and spicy flavors and offers various sides inlcuding Cajun fries, mashed potatoes macaroni & cheese, biscuits, and more. In addition to chicken, Popeyes also serves fish and shrimp entrées.",
+            "fflocation": "https://www.google.com/maps/search/popeyes/",
+            "ffSite": "https://www.popeyes.com/",
+            "ffRating": "4"
         },
         {
-            "name": "Potbelly",
-            "slogan": "Neighborhood Sandwich Shop",
-            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/potbelly.jpg"
+            "ffName": "Potbelly",
+            "ffSlogan": "Neighborhood Sandwich Shop",
+            "ffImage": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/potbelly.jpg",
+            "ffDescription": "The Potbelly sandwich shop offers a variety of special burgers to choose from and customize to your liking.",
+            "fflocation": "https://www.google.com/maps/search/potbelly+sandwich+shop/",
+            "ffSite": "https://www.potbelly.com/",
+            "ffRating": "5"
         },
         {
-            "name": "Subway",
-            "slogan": "Eat Fresh",
-            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/subway.jpeg"
+            "ffName": "Subway",
+            "ffSlogan": "Eat Fresh",
+            "ffImage": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/subway.jpeg",
+            "ffDescription": "Subway is an American fast food restaurant that primarily sells submarine sandwiches (subs), salads and beverages.",
+            "fflocation": "https://www.google.com/maps/search/subway/",
+            "ffSite": "https://www.subway.com/en-us",
+            "ffRating": "4"
         },
         {
-            "name": "TocoBell",
-            "slogan": "Live Mas",
-            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/tocobell.jpg"
+            "ffName": "TocoBell",
+            "ffSlogan": "Live Mas",
+            "ffImage": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/tocobell.jpg",
+            "ffDescription": "Taco Bell offers all of your favorite Mexican inspired foods. From classic tocos to burritos to their epic specialties and combos, there’s something for everyone on the Taco Bell menu.",
+            "fflocation": "https://www.google.com/maps/search/taco+bell/",
+            "ffSite": "https://www.tacobell.com/",
+            "ffRating": "4"
         },
         {
-            "name": "Wendy's",
-            "slogan": "You know when it's real",
-            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/wendys.jpg"
+            "ffName": "Wendy's",
+            "ffSlogan": "You know when it's real",
+            "ffImage": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/wendys.jpg",
+            "ffDescription": "Wendy's offers hamburgers, chicken sandwiches, French fries, other sides, and beverages such as the Frost.",
+            "fflocation": "https://www.google.com/maps/search/wendy's/",
+            "ffSite": "https://www.wendys.com/home",
+            "ffRating": "4"
         }
     ]
 }
