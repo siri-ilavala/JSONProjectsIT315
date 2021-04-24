@@ -2,43 +2,53 @@
     "fastfood":[
         {
             "name": "Burger King",
-            "slogan": "Be Your Way"
+            "slogan": "Be Your Way",
+            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/bking.jpeg"
         },
         {
             "name": "Chick Fil A",
-            "slogan": "Eat mor' chikin"
-        }
+            "slogan": "Eat mor' chikin",
+            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/chickfila.jpg"
+        },
         {
             "name": "Jersey Mikes Subs",
-            "slogan": "A Sub Above"
+            "slogan": "A Sub Above",
+            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/jerseymikes.jpg"
         },
         {
             "name": "McDonalds",
-            "slogan": "I'm Lovin' It"
+            "slogan": "I'm Lovin' It",
+            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/mcdonalds.jpg"
         },
         {
             "name": "Panera Bread",
-            "slogan": "Food As It Should Be"
+            "slogan": "Food As It Should Be",
+            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/panerabread.jpg"
         },
         {
             "name": "Popeyes",
-            "slogan": "LOUISIANA Fast"
+            "slogan": "LOUISIANA Fast",
+            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/popeyes.jpg"
         },
         {
             "name": "Potbelly",
-            "slogan": "Neighborhood Sandwich Shop"
+            "slogan": "Neighborhood Sandwich Shop",
+            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/potbelly.jpg"
         },
         {
             "name": "Subway",
-            "slogan": "Eat Fresh"
+            "slogan": "Eat Fresh",
+            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/subway.jpeg"
         },
         {
             "name": "TocoBell",
-            "slogan": "Live Mas"
+            "slogan": "Live Mas",
+            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/tocobell.jpg"
         },
         {
             "name": "Wendy's",
-            "slogan": "You know when it's real"
-        },
+            "slogan": "You know when it's real",
+            "image": "https://raw.githubusercontent.com/siri-ilavala/JSONProjectsIT315/master/wendys.jpg"
+        }
     ]
 }
