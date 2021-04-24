@@ -1,0 +1,44 @@
+{
+    "fastfood":[
+        {
+            "name": "Burger King",
+            "slogan": "Be Your Way"
+        },
+        {
+            "name": "Chick Fil A",
+            "slogan": "Eat mor' chikin"
+        }
+        {
+            "name": "Jersey Mikes Subs",
+            "slogan": "A Sub Above"
+        },
+        {
+            "name": "McDonalds",
+            "slogan": "I'm Lovin' It"
+        },
+        {
+            "name": "Panera Bread",
+            "slogan": "Food As It Should Be"
+        },
+        {
+            "name": "Popeyes",
+            "slogan": "LOUISIANA Fast"
+        },
+        {
+            "name": "Potbelly",
+            "slogan": "Neighborhood Sandwich Shop"
+        },
+        {
+            "name": "Subway",
+            "slogan": "Eat Fresh"
+        },
+        {
+            "name": "TocoBell",
+            "slogan": "Live Mas"
+        },
+        {
+            "name": "Wendy's",
+            "slogan": "You know when it's real"
+        },
+    ]
+}
